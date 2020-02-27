@@ -1,0 +1,28 @@
+premier tme
+v	arbres / arbres en feu
+v	arbres brulent a proximité feu
+~	combustion spontanée possible
+~~	cendres
+v	repousse arbre
+v	plusieurs niveaux de terrain
+v	eau qui reagit au lvl de terrain
+
+deuxieme tme
+v	proies predateurs
+v	predateurs mangent proies
+v	reprod proies / predateurs
+v	herbe
+v	famine
+v	poursuite / fuite (a reviser)
+v	stabilité algo
+	
+idees en plus
+~	agents terraformeurs
+v	saisons Sprüng = pousse elevée + pluie
+	        Sommer = pousse normale - pluie
+	        Automne  = +pousse(herbe) + pluie + eclairs
+	        Hiver = pas herbe (neige) gel eau
+v	tremblements terre
+v	volcans
+~	dragons	        
+
