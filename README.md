@@ -1,4 +1,4 @@
-World of Isotiles
+World of Isotiles RAYON-RICHTER MALOU EL FAHDI ISMAEL
 =================
 
 **Wofi** is a light-weight (non-optimised) implementation for creating isometric worlds. It features multi-level terrains with altitude, objects and agents. The code is primarily developed as a teaching material for the coding project on artificial life "2i013, projet: Vie Artificielle", part of the bachelor in computer science at Sorbonne Université (SU). This code is provided as an entry point to develop more complex projects including dynamic environments (e.g. forest fires, ecological changes) and species interactions (e.g. predator-prey dynamics, dynamic path planning), though you can probably develop simple games with it too.
